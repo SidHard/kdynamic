@@ -1,0 +1,1 @@
+/home/sid/desktop/kinect/kfusion/test/build/CMakeFiles/test.dir
